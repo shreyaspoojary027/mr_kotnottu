@@ -1,3 +1,4 @@
 # mr_kotnottu
-this is my first Git repositaory
+this is my first Git repositaory.
+<br>
 Author-shreyas
